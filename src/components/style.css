@@ -1,0 +1,14 @@
+.msgbox {
+    background:rgb(224, 224, 224);
+    margin: 1rem 1rem;
+    padding: 1rem 1rem;
+}
+
+.msgbox-content {
+    margin-bottom: 1rem;
+    font-size: 2rem;
+}
+
+.msgbox-createdat {
+    font-size: 0.8rem;
+}
